@@ -30,7 +30,7 @@ p {
 .top-container {
     background-color: #E4F9F5;
     margin: 0%;
-    padding: 31px;
+    padding: 15px;
     font-family: 'Merriweather', sans-serif;
 }
 
@@ -74,7 +74,7 @@ p {
 
 .mountain {
     position: relative;
-    top: 35px;
+    top: 19px;
 }
 
 a {
